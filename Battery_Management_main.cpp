@@ -12,7 +12,7 @@ const char* WIFI_PASS = "victoriaisgreat";
 
 // Firebase configuration
 #define FIREBASE_URL "https://battery-managemnt-lab-default-rtdb.firebaseio.com"
-#define FIREBASE_API_KEY "AIzaSyAv28hmtkVrxGsEnTdg2ado0NkDtpD4wWg"
+#define FIREBASE_API_KEY ""
 
 // Firebase objects
 FirebaseData firebaseData;
